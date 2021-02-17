@@ -1,4 +1,4 @@
-# todo_app
+# todo_app using bloc pattern
 
 A new Flutter project.
 
